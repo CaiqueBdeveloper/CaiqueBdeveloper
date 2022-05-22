@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiquebispo2308/) 
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5571983125857&text=Ol%C3%A1%20Caique!)
 
-![Caique GitHub stats](https://github-readme-stats.vercel.app/api?username=CaiqueBDeveloper&show_icons=true&theme=onedark)
+![Caique GitHub stats](https://github-readme-stats.vercel.app/api?username=CaiqueBDeveloper&show_icons=true&theme=radical)
 
 
 
