@@ -18,6 +18,6 @@
 ### A questão não é saber códigos ou linhas de comando, é saber o que fazer com eles. 
 <br>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaiquebDeveloper)]() 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaiqueBDeveloper)](/CaiqueBdeveloper/Curso-em-videos-exercicios) 
 
 </div>
